@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/basic-progress-ui/static/css/main.04bbd64a.css",
+    "main.js": "/basic-progress-ui/static/js/main.659874da.js",
+    "static/js/787.0ae014ec.chunk.js": "/basic-progress-ui/static/js/787.0ae014ec.chunk.js",
+    "static/media/logo.svg": "/basic-progress-ui/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/basic-progress-ui/index.html",
+    "main.04bbd64a.css.map": "/basic-progress-ui/static/css/main.04bbd64a.css.map",
+    "main.659874da.js.map": "/basic-progress-ui/static/js/main.659874da.js.map",
+    "787.0ae014ec.chunk.js.map": "/basic-progress-ui/static/js/787.0ae014ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04bbd64a.css",
+    "static/js/main.659874da.js"
+  ]
+}
